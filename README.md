@@ -7,7 +7,9 @@ Updated SDK version to 3.4.43 Updated AT version to 2.2.1.0
 
 #### Support HTTP AT Commands
 • AT+HTTPCLIENT: Send HTTP Client Request
+
 • AT+HTTPGETSIZE: Get HTTP Resource Size
+
 • AT+HTTPCPOST: Post HTTP data of specified length
 
 #### Support Web server AT Commands
